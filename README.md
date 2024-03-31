@@ -1,2 +1,2 @@
 # myproject_book_website
-book website using bootstrap-5 
+Ed-Website for geology and geophysics
